@@ -22,3 +22,7 @@
 golangのコンストラクタ的なやり方
 
 - https://qiita.com/gold-kou/items/4494f8b69b8fa53d5e93
+
+golangの型依存の関数と型非依存の関数の違い
+
+- https://qiita.com/pei0804/items/2a3010df39623fadc3c6
